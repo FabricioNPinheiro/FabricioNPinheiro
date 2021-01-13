@@ -6,8 +6,9 @@
      <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="50"'>
 </h2>
                                                                                                                                
-- 💻 Hábil em tecnologias de desenvolvimento web e mobile, me aventuro nos desafios da programação, é como uma diversão e passatempo para mim, mas encaro com seriedade buscando um conhecimento sólido para impactar positivamente na vida das pessoas com as melhores soluções tecnológicas.
-- :chart_with_upwards_trend: Nas horas vagas me aventuro na área de ciência e análise de dados, pois vejo a riqueza que as informações pode nos trazer e para se manter focado não pode faltar o famoso e bom cafezinho.
+- 💻 Skilled in web and mobile development technologies, I venture into the challenges of programming, it is like a fun and pastime for me, but I take it seriously looking for solid knowledge to positively impact people's lives with the best technological solutions.
+
+- :chart_with_upwards_trend: In my spare time I venture into the area of ​​science and data analysis, as I see the wealth that information can bring us and to stay focused the famous and good coffee cannot be missing.
   
                                                                                                                                
 Reach me out 👇🏼
