@@ -6,7 +6,7 @@ Me chamo Fabrício Nogueira, sou natural do Ceará e bacharel em Engenharia de S
 
 Além da qualidade técnica na entrega de funcionalidades, prezo pelo alinhamento com as necessidades do cliente. Gosto de ouvir, compreender e propor soluções que realmente resolvam problemas, automatizem processos e gerem valor ao negócio.
 
-### 📫 How to reach me:
+### 📫 Minhas redes:
 <div> 
 <p align="left">
 <a href="https://www.linkedin.com/in/fabricio-nogueira-874b041a5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
